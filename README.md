@@ -63,8 +63,8 @@ To use this application, you will need:
 ### Cloning the Repo
 * In your terminal run:
 
-        $ git clone https://github.com/GeGe-K/Startup-Ecosystem.git
-        $ cd Startup-Ecosystem
+        $ git clone https://github.com/GeGe-K/Time-Series-Regression-Analysis.git
+        $ cd Time-Series-Regression-Analysis
         
 ### Create a virtual environment and activate
 * Activate virtual environment
